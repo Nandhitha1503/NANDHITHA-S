@@ -1,0 +1,6 @@
+{
+  "name": "Smart Organ Transportation Monitoring System",
+  "description": "Real-time IoT medical cold-chain monitoring system for organ transit with temperature, humidity, GPS tracking, and MPU6050 shock and tilt detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
